@@ -30,6 +30,12 @@ python nombre_del_script.py
 ## Reglas del Juego
 1. Cada vez que la pelota cruza la pantalla por la izquierda, el Jugador 2 anota un punto.
 2. Cada vez que la pelota cruza la pantalla por la derecha, el Jugador 1 anota un punto.
+
+## Contributors
+
+- [ Francisco Vilahermosa @franbucho ](https://github.com/Franbucho)
+
+Contributions are welcome! If you'd like to contribute to this project, feel free to submit a pull request.
 3. El juego continúa hasta que decidas salir.
 
 ## Personalización
